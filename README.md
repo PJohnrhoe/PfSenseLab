@@ -39,7 +39,8 @@ Step 5: Test Your Setup  <br/>
 <br />
 <br />
 
-
+<h2>Conclusion</h2>
+Setting up pfSense at home can greatly enhance your network’s security and control. While the process may seem daunting at first, with careful preparation and patience, you can successfully set up your own home network with pfSense.
 
 
 <!--
