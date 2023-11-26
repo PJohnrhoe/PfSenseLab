@@ -16,6 +16,7 @@ pfSense is a free and open-source firewall and router that also features unified
 
 Step 1: Download pfSense
 First, download the latest version of pfSense from the official website.
+<img src="https://github.com/PJohnrhoeRepo/PfSenseLab/blob/main/Pfsense%20download.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Step 2: Prepare the Installation Media
 Write the downloaded pfSense image to a USB drive using software like Rufus.
@@ -40,7 +41,7 @@ Please replace the placeholders with your specific details and add any additiona
 <!--
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/PJohnrhoeRepo/PfSenseLab/blob/main/Pfsense%20download.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
