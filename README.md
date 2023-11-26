@@ -30,7 +30,7 @@ Step 3: Install pfSense <br/>
 <br />
 <br />
 Step 4: Initial Configuration  <br/>
-After installation, you’ll be guided through the initial configuration wizard. This includes setting up interfaces, WAN and LAN settings.
+After installation, you’ll be guided through the initial configuration wizard.
 <img src="https://github.com/PJohnrhoeRepo/Images/blob/main/Pfsense%20wizard.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
