@@ -35,7 +35,7 @@ After installation, you’ll be guided through the initial configuration wizard.
 <br />
 <br />
 Step 5: Test Your Setup  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/PJohnrhoeRepo/Images/blob/main/Pfsense%20dashboard.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
