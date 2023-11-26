@@ -15,37 +15,31 @@ pfSense is a free and open-source firewall and router that also features unified
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Step 1: Download pfSense
+Step 1: Download pfSense <br/>
 First, download the latest version of pfSense from the official website(https://pfsense.org/download).
-<img src="https://github.com/PJohnrhoeRepo/Images/blob/main/Pfsense%20download.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br/>
+<img src="https://github.com/PJohnrhoeRepo/Images/blob/main/Pfsense%20download.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step 2: Prepare the Installation Media
+Step 2: Prepare the Installation Media  <br/>
 Write the downloaded pfSense image to a USB drive using software like Rufus(https://rufus.ie/en/).
-<img src="https://github.com/PJohnrhoeRepo/Images/blob/main/Rufus.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br/>
+<img src="https://github.com/PJohnrhoeRepo/Images/blob/main/Rufus.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step 3: Install pfSense <br/>
+<img src="https://github.com/PJohnrhoeRepo/Images/blob/main/Pfsense%20installation.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step 4: Initial Configuration  <br/>
+After installation, you’ll be guided through the initial configuration wizard. This includes setting up interfaces, WAN and LAN settings.
+<img src="https://github.com/PJohnrhoeRepo/Images/blob/main/Pfsense%20wizard.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step 5: Test Your Setup  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-Step 3: Install pfSense
-Insert the USB drive into your hardware and boot from it. Follow the on-screen instructions to install pfSense.
-<br />
-<br />
 
-Step 4: Initial Configuration
-After installation, you’ll be guided through the initial configuration wizard. This includes setting up interfaces, WAN and LAN settings, and general system settings.
-<br />
-<br />
-Step 5: Test Your Setup
-Finally, test your setup to ensure everything is working correctly. You can do this by checking internet connectivity and the status of your firewall rules.
-<br />
-<br />
-
-<h2>Conclusion</h2>
-Setting up pfSense at home can greatly enhance your network’s security and control. While the process may seem daunting at first, with careful preparation and patience, you can successfully set up your own home network with pfSense.
-
-
-
-</p>
 
 
 <!--
