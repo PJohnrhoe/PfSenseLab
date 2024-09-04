@@ -1,4 +1,4 @@
-<h1>Setting up pfsense firewall as a Home Lab</h1>
+<h1>Setting up Pfsense firewall as a home lab</h1>
 
 
 <h2>Description</h2>
